@@ -1,0 +1,15 @@
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\bin\Debug\net9.0\Zoo.Application.deps.json
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\bin\Debug\net9.0\Zoo.Application.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\bin\Debug\net9.0\Zoo.Application.pdb
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\bin\Debug\net9.0\Zoo.Domain.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\bin\Debug\net9.0\Zoo.Domain.pdb
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\obj\Debug\net9.0\Zoo.Application.csproj.AssemblyReference.cache
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\obj\Debug\net9.0\Zoo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\obj\Debug\net9.0\Zoo.Application.AssemblyInfoInputs.cache
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\obj\Debug\net9.0\Zoo.Application.AssemblyInfo.cs
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\obj\Debug\net9.0\Zoo.Application.csproj.CoreCompileInputs.cache
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\obj\Debug\net9.0\Zoo.Appl.11DBBD74.Up2Date
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\obj\Debug\net9.0\Zoo.Application.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\obj\Debug\net9.0\refint\Zoo.Application.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\obj\Debug\net9.0\Zoo.Application.pdb
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Application\obj\Debug\net9.0\ref\Zoo.Application.dll

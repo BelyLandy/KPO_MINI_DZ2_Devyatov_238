@@ -1,0 +1,17 @@
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Infrastructure.deps.json
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Infrastructure.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Infrastructure.pdb
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Application.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Domain.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Application.pdb
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Domain.pdb
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.AssemblyInfo.cs
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infr.64A231E8.Up2Date
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\obj\Debug\net9.0\refint\Zoo.Infrastructure.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.pdb
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Infrastructure\obj\Debug\net9.0\ref\Zoo.Infrastructure.dll

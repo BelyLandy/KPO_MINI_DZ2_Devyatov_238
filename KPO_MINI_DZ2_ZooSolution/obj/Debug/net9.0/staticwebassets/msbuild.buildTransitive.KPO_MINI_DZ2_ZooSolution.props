@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KPO_MINI_DZ2_ZooSolution.props" />
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Domain\bin\Debug\net9.0\Zoo.Domain.deps.json
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Domain\bin\Debug\net9.0\Zoo.Domain.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Domain\bin\Debug\net9.0\Zoo.Domain.pdb
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.AssemblyInfoInputs.cache
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.AssemblyInfo.cs
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Domain\obj\Debug\net9.0\refint\Zoo.Domain.dll
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.pdb
+C:\Users\dexte\RiderProjects\KPO_MINI_DZ2_ZooSolution\Zoo.Domain\obj\Debug\net9.0\ref\Zoo.Domain.dll

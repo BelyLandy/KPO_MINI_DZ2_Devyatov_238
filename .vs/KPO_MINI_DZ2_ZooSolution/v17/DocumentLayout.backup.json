@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dexte\\RiderProjects\\KPO_MINI_DZ2_ZooSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4642F16-0D39-432F-A8DE-07B4A9EF096E}|Zoo.Application\\Zoo.Application.csproj|c:\\users\\dexte\\riderprojects\\kpo_mini_dz2_zoosolution\\zoo.application\\dtos\\zoostatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4642F16-0D39-432F-A8DE-07B4A9EF096E}|Zoo.Application\\Zoo.Application.csproj|solutionrelative:zoo.application\\dtos\\zoostatsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD27A19-96E0-476C-9DE6-B6B543FBD204}|Zoo.Tests\\Zoo.Tests.csproj|c:\\users\\dexte\\riderprojects\\kpo_mini_dz2_zoosolution\\zoo.tests\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD27A19-96E0-476C-9DE6-B6B543FBD204}|Zoo.Tests\\Zoo.Tests.csproj|solutionrelative:zoo.tests\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4642F16-0D39-432F-A8DE-07B4A9EF096E}|Zoo.Application\\Zoo.Application.csproj|c:\\users\\dexte\\riderprojects\\kpo_mini_dz2_zoosolution\\zoo.application\\services\\zoostatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4642F16-0D39-432F-A8DE-07B4A9EF096E}|Zoo.Application\\Zoo.Application.csproj|solutionrelative:zoo.application\\services\\zoostatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CAD7BE-39B0-48B7-8908-F71BEAD917CB}|KPO_MINI_DZ2_ZooSolution\\KPO_MINI_DZ2_ZooSolution.csproj|c:\\users\\dexte\\riderprojects\\kpo_mini_dz2_zoosolution\\kpo_mini_dz2_zoosolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83CAD7BE-39B0-48B7-8908-F71BEAD917CB}|KPO_MINI_DZ2_ZooSolution\\KPO_MINI_DZ2_ZooSolution.csproj|solutionrelative:kpo_mini_dz2_zoosolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83CAD7BE-39B0-48B7-8908-F71BEAD917CB}|KPO_MINI_DZ2_ZooSolution\\KPO_MINI_DZ2_ZooSolution.csproj|c:\\users\\dexte\\riderprojects\\kpo_mini_dz2_zoosolution\\kpo_mini_dz2_zoosolution\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83CAD7BE-39B0-48B7-8908-F71BEAD917CB}|KPO_MINI_DZ2_ZooSolution\\KPO_MINI_DZ2_ZooSolution.csproj|solutionrelative:kpo_mini_dz2_zoosolution\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTests.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\RiderProjects\\KPO_MINI_DZ2_ZooSolution\\Zoo.Tests\\UnitTests.cs",
+              "RelativeDocumentMoniker": "Zoo.Tests\\UnitTests.cs",
+              "ToolTip": "C:\\Users\\dexte\\RiderProjects\\KPO_MINI_DZ2_ZooSolution\\Zoo.Tests\\UnitTests.cs",
+              "RelativeToolTip": "Zoo.Tests\\UnitTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:41:39.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZooStatisticsService.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\RiderProjects\\KPO_MINI_DZ2_ZooSolution\\Zoo.Application\\Services\\ZooStatisticsService.cs",
+              "RelativeDocumentMoniker": "Zoo.Application\\Services\\ZooStatisticsService.cs",
+              "ToolTip": "C:\\Users\\dexte\\RiderProjects\\KPO_MINI_DZ2_ZooSolution\\Zoo.Application\\Services\\ZooStatisticsService.cs",
+              "RelativeToolTip": "Zoo.Application\\Services\\ZooStatisticsService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:34:00.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZooStatsDto.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\RiderProjects\\KPO_MINI_DZ2_ZooSolution\\Zoo.Application\\DTOs\\ZooStatsDto.cs",
+              "RelativeDocumentMoniker": "Zoo.Application\\DTOs\\ZooStatsDto.cs",
+              "ToolTip": "C:\\Users\\dexte\\RiderProjects\\KPO_MINI_DZ2_ZooSolution\\Zoo.Application\\DTOs\\ZooStatsDto.cs",
+              "RelativeToolTip": "Zoo.Application\\DTOs\\ZooStatsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:33:34.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dexte\\RiderProjects\\KPO_MINI_DZ2_ZooSolution\\KPO_MINI_DZ2_ZooSolution\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KPO_MINI_DZ2_ZooSolution\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dexte\\RiderProjects\\KPO_MINI_DZ2_ZooSolution\\KPO_MINI_DZ2_ZooSolution\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KPO_MINI_DZ2_ZooSolution\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-16T06:54:31.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\RiderProjects\\KPO_MINI_DZ2_ZooSolution\\KPO_MINI_DZ2_ZooSolution\\Program.cs",
+              "RelativeDocumentMoniker": "KPO_MINI_DZ2_ZooSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\dexte\\RiderProjects\\KPO_MINI_DZ2_ZooSolution\\KPO_MINI_DZ2_ZooSolution\\Program.cs",
+              "RelativeToolTip": "KPO_MINI_DZ2_ZooSolution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:23:06.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
